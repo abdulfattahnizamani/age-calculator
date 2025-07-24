@@ -12,7 +12,7 @@ A simple and interactive web application to calculate your exact age in years, m
 
 ## 🚀 Live Demo
 
-🌐 [View it on Vercel] https://age-calculator-seven-silk-97.vercel.app/
+🌐 [View it on Vercel](https://age-calculator-seven-silk-97.vercel.app/)
 
 ## 🛠️ Technologies Used
 
