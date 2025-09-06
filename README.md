@@ -22,7 +22,7 @@ A simple and interactive web application to calculate your exact age in years, m
 
 📬 Contact
 Made with ❤️ by Abdulfattah Nizamani
-🔗 LinkedIn: https://linkedin.com/in/abdulfattahnizamani
+🔗 [LinkedIn](https://linkedin.com/in/fattahniz) |
 📫 Email: abdulfattahnizamani266@gmail.com
 
 📜 License
