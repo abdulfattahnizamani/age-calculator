@@ -9,39 +9,38 @@ A simple and interactive web application to calculate your exact age in years, m
 - 🧠 JavaScript date logic
 - 💡 Minimal, responsive UI design
 
+## 🛠️ Tech Stack
+**Frontend:** HTML, CSS, JavaScript (ES6+)
 
-## 🚀 Live Demo
+**Deployment:** Vercel
 
-🌐 [View it on Vercel](https://age-calculator-seven-silk-97.vercel.app/)
+## Installation
+1. Clone the repo
+```bash
+   git clone https://github.com/fattahniz/age-calculator.git
+cd age-calculator
+```
 
-## 🛠️ Technologies Used
+3. Run locally
+Open index.html directly in your browser or use a Live Server extension in VS Code.
 
-- **HTML5**
-- **CSS3**
-- **JavaScript (Vanilla)**
+## 📂 Project Structure
+```css
+project/
+│── index.html
+│── style.css
+│── main.js
+│── images/
+│── README.md
+```
 
-📬 Contact
-Made with ❤️ by Abdulfattah Nizamani
-🔗 [LinkedIn](https://linkedin.com/in/fattahniz) |
-📫 Email: abdulfattahnizamani266@gmail.com
+## 🤝 Contributing
+Fork the repo
 
-📜 License
-This project is open-source and free to use under the MIT License.
+1. Create a new branch (feature/my-feature)
+2. Commit changes
+3. Push branch and create a Pull Request
 
-yaml
-Copy
-Edit
-
----
-
-### ✅ Next Step:
-1. Create a `README.md` file in your repo root.
-2. Paste the above content.
-3. Customize anything (especially live demo link or contact).
-4. Commit & push:
-   ```bash
-   git add README.md
-   git commit -m "Add README"
-   git push
-
-
+## 📄 License
+This project is licensed under the [MIT License](LICENSE) – see the LICENSE
+file for details.
